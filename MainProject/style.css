@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+header ul li a{
+    color: white;
+}
+.search{
+    color: transparent;
+}
+.wrapper{
+    display: flex;
+}
