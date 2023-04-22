@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
 
                 }
             else
-                echo 'поешл нахуй';
+                
 
         }
 }
